@@ -87,10 +87,7 @@ The reinforcement learning agent was deployed on a real-world tank level control
 ## Contributors
 - Sujeeth S  
 - Vivek Balamurugan
-
-## Author
-
-Madhav Srinath Thanigaivel
+- Madhav Srinath Thanigaivel
 
 ## License
 
