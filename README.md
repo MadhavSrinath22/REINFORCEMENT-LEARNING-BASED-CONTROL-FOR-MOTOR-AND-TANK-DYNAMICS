@@ -1,4 +1,4 @@
-# REINFORCEMENT-LEARNING-BASED-CONTROL-FOR-MOTOR-AND-TANK-DYNAMICS
+# REINFORCEMENT LEARNING BASED CONTROL FOR MOTOR AND TANK DYNAMICS(DDPG)
 
 This project implements a Reinforcement Learning based control system for a DC motor using the MATLAB Reinforcement Learning Toolbox and Simulink. Includes system modeling, reward design, and RL implementation, compared with traditional control methods for stability, convergence, and performance evaluation. A Deep Deterministic Policy Gradient (DDPG) actor–critic agent is trained in simulation and the same framework is successfully applied to a real-world tank height control system using NI DAQ hardware.
 
